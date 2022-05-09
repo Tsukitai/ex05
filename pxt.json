@@ -1,5 +1,5 @@
 {
-    "name": "EX05",
+    "name": "Capteur de température",
     "description": "",
     "dependencies": {
         "core": "*",
